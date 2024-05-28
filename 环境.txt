@@ -1,0 +1,10 @@
+dlib==19.24.4
+glib==2.78.4
+imutils==0.5.4
+libxcb==1.15
+numpy==1.21.5
+opencv-python==4.9.0.80
+pytorch==1.7.1
+torchvision==0.8.2
+wxpython==4.0.4
+zlib==1.2.13
